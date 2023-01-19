@@ -33,11 +33,8 @@ void AssingTestQuestins(Question& Test, string Name, string Answer1, bool isCorr
 bool String2Convert(string isTrue) {
     if (isTrue == "1") {
         return true;
-    } else if (isTrue == "0") {
-        return false;
-    } else {
-        return false;
     }
+    return false;
 }
 // Check number of rows and columns in csv
 void RowsAndCells(string Link, int& Row, int& Cell) {
