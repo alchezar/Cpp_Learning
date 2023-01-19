@@ -1,4 +1,4 @@
 # Cpp_Learning
 
-In folder CodeBeaty one of my first wrote c++ files
-from this cource https://youtu.be/8jLOx1hD3_o
+CodeBeaty > one of my first wrote c++ files
+Cpp31h > files from course "C++ Programming Course - Beginner to Advanced" from https://youtu.be/8jLOx1hD3_o
