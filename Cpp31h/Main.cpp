@@ -7,6 +7,7 @@
 #include "Player.h"
 
 int main() {
+    // Creating class members
     Engineer engineer_1;
     std::cout << "-----------------" << '\n';
     CivilEng civil_1("Bob Snail", 18, "vul. Stepana Bandery", 9, 2);
